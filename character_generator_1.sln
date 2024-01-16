@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "character_generator_1", "character_generator_1\character_generator_1.pyproj", "{393E7390-A43B-4E55-A19E-BD52FF0AD8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393E7390-A43B-4E55-A19E-BD52FF0AD8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393E7390-A43B-4E55-A19E-BD52FF0AD8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE29F73-5AF7-4409-8C23-D80D8C8933F8}
+	EndGlobalSection
+EndGlobal
